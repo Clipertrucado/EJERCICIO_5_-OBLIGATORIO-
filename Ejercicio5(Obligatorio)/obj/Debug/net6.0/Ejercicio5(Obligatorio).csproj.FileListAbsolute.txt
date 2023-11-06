@@ -1,0 +1,14 @@
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\obj\Debug\net6.0\Ejercicio5(Obligatorio).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\obj\Debug\net6.0\Ejercicio5(Obligatorio).AssemblyInfoInputs.cache
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\obj\Debug\net6.0\Ejercicio5(Obligatorio).AssemblyInfo.cs
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\obj\Debug\net6.0\Ejercicio5(Obligatorio).csproj.CoreCompileInputs.cache
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\bin\Debug\net6.0\Ejercicio5(Obligatorio).exe
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\bin\Debug\net6.0\Ejercicio5(Obligatorio).deps.json
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\bin\Debug\net6.0\Ejercicio5(Obligatorio).runtimeconfig.json
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\bin\Debug\net6.0\Ejercicio5(Obligatorio).dll
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\bin\Debug\net6.0\Ejercicio5(Obligatorio).pdb
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\obj\Debug\net6.0\Ejercicio5(Obligatorio).dll
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\obj\Debug\net6.0\refint\Ejercicio5(Obligatorio).dll
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\obj\Debug\net6.0\Ejercicio5(Obligatorio).pdb
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\obj\Debug\net6.0\Ejercicio5(Obligatorio).genruntimeconfig.cache
+C:\Users\csi23-salflet\source\repos\Ejercicio5(Obligatorio)\obj\Debug\net6.0\ref\Ejercicio5(Obligatorio).dll
